@@ -27,7 +27,7 @@ function App() {
             {/* Static Info Pages */}
             <Route path="/about" element={<InfoPage title="About Us" content={
               <div style={{ display: 'flex', flexDirection: 'column', gap: '1.5rem' }}>
-                <p>Welcome to <strong>ShopNest</strong>! We are dedicated to providing the best tech products, accessories, and furniture with top-notch customer service.</p>
+                <p>Welcome to <strong>Shopnest by aagam</strong>! We are dedicated to providing the best tech products, accessories, and furniture with top-notch customer service.</p>
                 <p>Founded in 2026, we have quickly become a leading online retailer thanks to our passionate team and loyal customers. Our mission is to make premium quality products accessible to everyone at unbeatable prices.</p>
                 <p>We source our inventory from the most trusted manufacturers across the globe, ensuring that every item meets our strict quality standards.</p>
               </div>
@@ -37,8 +37,8 @@ function App() {
               <div style={{ display: 'flex', flexDirection: 'column', gap: '1.5rem' }}>
                 <p>Have a question or need assistance? We're here to help!</p>
                 <ul style={{ listStyleType: 'disc', marginLeft: '1.5rem', display: 'flex', flexDirection: 'column', gap: '0.5rem' }}>
-                  <li><strong>Email:</strong> support@shopnest.com</li>
-                  <li><strong>Phone:</strong> +91 98765 43210</li>
+                  <li><strong>Email:</strong> aagamj16@gmail.com</li>
+                  <li><strong>Phone:</strong> +91 99810 28375</li>
                   <li><strong>Address:</strong> 123 E-Commerce St, Tech City, TC 10100</li>
                 </ul>
                 <p>Our customer service team is available Monday through Friday, 9:00 AM to 5:00 PM (EST).</p>

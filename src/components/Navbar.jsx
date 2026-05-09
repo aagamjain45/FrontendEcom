@@ -25,9 +25,12 @@ const Navbar = () => {
       <div className="container nav-container">
         
         {/* Logo */}
-        <a href="/" className="nav-logo">
+        <a href="/" className="nav-logo" style={{ display: 'flex', alignItems: 'center', gap: '0.5rem' }}>
           <ShoppingBag size={28} />
-          <span>ShopNest</span>
+          <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'flex-start', lineHeight: '1.1' }}>
+            <span style={{ fontSize: '1.25rem', fontWeight: 'bold' }}>ShopNest</span>
+            <span style={{ fontSize: '0.7rem', color: 'var(--text-secondary)', fontStyle: 'italic', marginTop: '2px' }}>by Aagam</span>
+          </div>
         </a>
 
         {/* Search Bar - Hidden on small mobile */}

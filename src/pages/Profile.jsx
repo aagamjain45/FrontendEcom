@@ -20,9 +20,9 @@ const Profile = () => {
           <div className="profile-avatar">
             <User size={64} />
           </div>
-          <h2 className="profile-name">John Doe</h2>
-          <p className="profile-detail">john.doe@example.com</p>
-          <p className="profile-detail">+91 98765 43210</p>
+          <h2 className="profile-name">Aagam</h2>
+          <p className="profile-detail">aagamj16@gmail.com</p>
+          <p className="profile-detail">+91 99810 28375</p>
           <p className="profile-detail" style={{ marginTop: '1rem', maxWidth: '200px' }}>
             123 E-Commerce St, Tech City, TC 10100
           </p>
