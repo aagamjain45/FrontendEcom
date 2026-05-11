@@ -7,7 +7,7 @@
 
 LuxeCart is a sophisticated, high-performance e-commerce platform built with modern web technologies. It features a minimalist design philosophy, focusing on user experience, smooth transitions, and a premium aesthetic.
 
-![LuxeCart Preview](./public/preview.png)
+
 
 ## ✨ Features
 
@@ -72,4 +72,4 @@ src/
 
 ---
 
-Developed with ❤️ for the Modern Web.
+Developed by Aagam Jain.
