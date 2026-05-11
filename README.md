@@ -64,12 +64,6 @@ src/
    npm run dev
    ```
 
-## 📸 Screenshots
-
-| Home Page | Product Details | Cart View |
-| :--- | :--- | :--- |
-| ![Home](./public/preview.png) | ![Details](./public/preview.png) | ![Cart](./public/preview.png) |
-
 ---
 
 Developed by Aagam Jain.
