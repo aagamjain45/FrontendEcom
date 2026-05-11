@@ -5,7 +5,7 @@
 [![React Router](https://img.shields.io/badge/React_Router-7.0-CA4245?style=for-the-badge&logo=react-router&logoColor=white)](https://reactrouter.com/)
 [![Lucide Icons](https://img.shields.io/badge/Lucide_Icons-1.14-F7DF1E?style=for-the-badge&logo=lucide&logoColor=black)](https://lucide.dev/)
 
-LuxeCart is a sophisticated, high-performance e-commerce platform built with modern web technologies. It features a minimalist design philosophy, focusing on user experience, smooth transitions, and a premium aesthetic.
+ShopNest is a sophisticated, high-performance e-commerce platform built with modern web technologies. It features a minimalist design philosophy, focusing on user experience, smooth transitions, and a premium aesthetic.
 
 
 
@@ -51,7 +51,7 @@ src/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/luxecart.git
+   git clone https://github.com/aagamjain45/FrontendEcom
    ```
 
 2. **Install dependencies**
